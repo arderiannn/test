@@ -24,6 +24,6 @@ class Aggregator {
      * Reset the aggregated value
      */
     void reset() {
-        sum = 42;
+        sum = 0;
     }
 }
